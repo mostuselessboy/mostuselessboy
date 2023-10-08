@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamza and I'm a DevOps, from Delhi, India</h2>
+<h2 align="left">Hi 👋! My name is Hamza and I'm a Programmer, from Delhi, India</h2>
 
 ###
 
