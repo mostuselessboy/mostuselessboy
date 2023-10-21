@@ -23,10 +23,6 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 
 Step into my tech universe! In this section, I'm excited to introduce you to the fantastic array of technologies I've had the pleasure of exploring and mastering
 
-> **Note**
-> Langauge Ratings are given by me :> 
-
-Here's the table consisting of frameworks and languages i know
 
 <div align="center">
 
@@ -43,6 +39,10 @@ S.No |Hackaton | Award | Contribution | Cat-o-meter
 
 </div>
 
+<br>
+
+> **Note**
+> Langauge Ratings are given by me :> 
 
 
 
