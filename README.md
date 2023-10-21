@@ -1,4 +1,4 @@
-![name](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/txt_syedhamza.png?raw=true)
+![name](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/header.png?raw=true)
 I'm an enthusiastic Full-Stack Web Developer with a passion for both technology and design. I bring not only technical expertise but also a keen eye for design to every project I work on. My experience includes numerous projects in software development and automation.
 
 
