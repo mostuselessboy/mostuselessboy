@@ -4,7 +4,7 @@
 
 I'm an enthusiastic Full-Stack Web Developer with a passion for both technology and design. I bring not only technical expertise but also a keen eye for design to every project I work on. My experience includes numerous projects in software development and automation.
 
-![name](https://img.dafont.com/preview.php?text=Syed+Hamza&ttf=gods_must0&ext=0&size=57&psize=l&y=60)
+![name](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/txt_syedhamza.png?raw=true)
 ## 🔧 What I Work On
 
 I specialize in:
