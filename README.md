@@ -16,9 +16,8 @@ I specialize in:
 ## 🤝 Let's Collaborate
 
 I'm excited to collaborate with you to bring both functionality and aesthetics to your web projects. Whether you're looking to create a stunning website or build powerful software, I'm here to help.
-
-## 📫 Hackatons
-
+![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/acheivements.png?raw=true)
+<h1 align="center" style="font-family: cursive;">Achi-eVe-ments :></h1>
 S.No |Hackaton | Award | Contribution | Cat-o-meter
 --- |--- | --- | --- | --- 
 1 |*Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
