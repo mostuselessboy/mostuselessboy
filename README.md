@@ -81,3 +81,7 @@ S.No |Hackaton | Award | Contribution | Cat-o-meter
 8 |*SkyNet Hacks v2* | `Winner` | **Solo**| 😻
 
 </div>
+
+
+![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/collab.png?raw=true)
+<h1 align="center" style="font-family: cursive;">CoLLAB wiTH M-E :></h1>
