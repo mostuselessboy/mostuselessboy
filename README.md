@@ -28,31 +28,31 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 | Logo | Technologies                | Type       | Proficiency (out of 5 stars) |
 | ---: | -------------------------  | ---------- | ---------------------------- |
-| <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Python**                | `Langauge`   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/javascript/grey" width="30">    | **Vanilla JavaScript**    | `Langauge`   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/html5/grey" width="30">    | **HTML**                  | `Langauge`   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/css3/grey" width="30">    | **CSS**                   | `Langauge`   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React**                 | `Framework`  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/typescript/grey" width="30">    | **TypeScript**            | `Langauge`   | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React Native**          | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/nextdotjs/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Firebase**              | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/qt/grey" width="30">    | **Qt5**                   | Framework  | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/mysql/grey" width="30">    | **MySQL**                 | `Langauge`   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/github/grey" width="30">    | **Git & GitHub**          | Tools      | ★★★★☆                        |
-| <img src="https://cdn.simpleicons.org/flask/grey" width="30">    | **Flask**                 | Framework  | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/django/grey" width="30">    | **Django**                | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/selenium/grey" width="30">    | **Selenium**              | Framework  | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/opencv/grey" width="30">    | **OpenCV**                | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/pyscaffold/grey" width="30">    | **Pygame**                | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/android/grey" width="30">    | **Java**                  | `Langauge`   | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/tailwindcss/grey" width="30">    | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/bootstrap/grey" width="30">    | **Bootstrap**             | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/nodedotjs/grey" width="30">    | **Node.js**               | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/npm/grey" width="30">    | **npm**                   | Tools      | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/cplusplus/grey" width="30">    | **C++**                   | `Langauge`   | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/c/grey" width="30">    | **C**                     | `Langauge`   | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/electron/grey" width="30">    | **ElectronJS**            | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/firebase/grey" width="20">    | **Python**                | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/javascript/grey" width="20">    | **Vanilla JavaScript**    | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/html5/grey" width="20">    | **HTML**                  | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/css3/grey" width="20">    | **CSS**                   | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/react/grey" width="20">    | **React**                 | `Framework`  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/typescript/grey" width="20">    | **TypeScript**            | `Langauge`   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/react/grey" width="20">    | **React Native**          | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/nextdotjs/grey" width="20">    | **Next.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/firebase/grey" width="20">    | **Firebase**              | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/qt/grey" width="20">    | **Qt5**                   | Framework  | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/mysql/grey" width="20">    | **MySQL**                 | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/github/grey" width="20">    | **Git & GitHub**          | Tools      | ★★★★☆                        |
+| <img src="https://cdn.simpleicons.org/flask/grey" width="20">    | **Flask**                 | Framework  | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/django/grey" width="20">    | **Django**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/selenium/grey" width="20">    | **Selenium**              | Framework  | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/opencv/grey" width="20">    | **OpenCV**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/pyscaffold/grey" width="20">    | **Pygame**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/android/grey" width="20">    | **Java**                  | `Langauge`   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/tailwindcss/grey" width="20">    | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/bootstrap/grey" width="20">    | **Bootstrap**             | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/nodedotjs/grey" width="20">    | **Node.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/npm/grey" width="20">    | **npm**                   | Tools      | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/cplusplus/grey" width="20">    | **C++**                   | `Langauge`   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/c/grey" width="20">    | **C**                     | `Langauge`   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/electron/grey" width="20">    | **ElectronJS**            | Framework  | ★★★☆☆                        |
 
 </div>
 
