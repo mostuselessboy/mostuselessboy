@@ -22,7 +22,7 @@ I'm excited to collaborate with you to bring both functionality and aesthetics t
 <h1 align="center" style="font-family: cursive;">Achi-eVe-ments :></h1>
 
 S.No |Hackaton | Award | Contribution | Cat-o-meter
---- |--- | --- | --- | --- 
+---: |--- | --- | :---: | --- 
 1 |*Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
 2 |*BayView Hackathon 1.0* | `Winner` | **Solo** | 😻
 3 |*HP CodeWars'22* | `Top 70` | **Solo** | 😻
