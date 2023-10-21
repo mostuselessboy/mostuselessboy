@@ -19,8 +19,9 @@ I'm excited to collaborate with you to bring both functionality and aesthetics t
 
 ## 📫 Hackatons
 
-Hackaton | Award | Sample
+Hackaton | Award | Contribution
 --- | --- | ---
-*Still* | `renders` | **nicely**
---- | --- | ---
-1 | 2 | 3
+*Sonoma Hacks 2.0* | `2nd Place` | **Team**
+*BayView Hackathon 1.0* | `Winner` | **Solo**
+*BracketHacks 1.0* | `2nd Place` | **Solo**
+
