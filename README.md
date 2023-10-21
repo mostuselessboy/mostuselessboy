@@ -25,7 +25,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 
 <div align="center">
-	
+
 | Logo | Technologies                | Type       | Proficiency (out of 5 stars) |
 | ---: | -------------------------  | ---------- | ---------------------------- |
 | <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Python**                | Language   | ★★★★★                        |
@@ -35,7 +35,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 | <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React**                 | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/typescript/grey" width="30">    | **TypeScript**            | Language   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React Native**          | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/next-dot-js/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/vercel/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Firebase**              | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/qt/grey" width="30">    | **Qt5**                   | Framework  | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/mysql/grey" width="30">    | **MySQL**                 | Language   | ★★★★★                        |
