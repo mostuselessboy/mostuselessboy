@@ -44,8 +44,8 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 | <img src="https://cdn.simpleicons.org/django/grey" width="30">    | **Django**                | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/selenium/grey" width="30">    | **Selenium**              | Framework  | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/opencv/grey" width="30">    | **OpenCV**                | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/pygame/grey" width="30">    | **Pygame**                | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/java/grey" width="30">    | **Java**                  | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/pyscaffold/grey" width="30">    | **Pygame**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/android/grey" width="30">    | **Java**                  | Language   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/tailwindcss/grey" width="30">    | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/bootstrap/grey" width="30">    | **Bootstrap**             | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/nodedotjs/grey" width="30">    | **Node.js**               | Framework  | ★★★☆☆                        |
