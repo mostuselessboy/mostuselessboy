@@ -28,30 +28,30 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 | Logo | Technologies                | Type       | Proficiency (out of 5 stars) |
 | ---: | -------------------------  | ---------- | ---------------------------- |
-| <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Python**                | Language   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/javascript/grey" width="30">    | **Vanilla JavaScript**    | Language   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/html5/grey" width="30">    | **HTML**                  | Language   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/css3/grey" width="30">    | **CSS**                   | Language   | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React**                 | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/typescript/grey" width="30">    | **TypeScript**            | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Python**                | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/javascript/grey" width="30">    | **Vanilla JavaScript**    | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/html5/grey" width="30">    | **HTML**                  | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/css3/grey" width="30">    | **CSS**                   | `Langauge`   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React**                 | `Framework`  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/typescript/grey" width="30">    | **TypeScript**            | `Langauge`   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React Native**          | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/nextdotjs/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Firebase**              | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/qt/grey" width="30">    | **Qt5**                   | Framework  | ★★★★★                        |
-| <img src="https://cdn.simpleicons.org/mysql/grey" width="30">    | **MySQL**                 | Language   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/mysql/grey" width="30">    | **MySQL**                 | `Langauge`   | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/github/grey" width="30">    | **Git & GitHub**          | Tools      | ★★★★☆                        |
 | <img src="https://cdn.simpleicons.org/flask/grey" width="30">    | **Flask**                 | Framework  | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/django/grey" width="30">    | **Django**                | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/selenium/grey" width="30">    | **Selenium**              | Framework  | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/opencv/grey" width="30">    | **OpenCV**                | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/pyscaffold/grey" width="30">    | **Pygame**                | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/android/grey" width="30">    | **Java**                  | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/android/grey" width="30">    | **Java**                  | `Langauge`   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/tailwindcss/grey" width="30">    | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/bootstrap/grey" width="30">    | **Bootstrap**             | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/nodedotjs/grey" width="30">    | **Node.js**               | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/npm/grey" width="30">    | **npm**                   | Tools      | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/cplusplus/grey" width="30">    | **C++**                   | Language   | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/c/grey" width="30">    | **C**                     | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/cplusplus/grey" width="30">    | **C++**                   | `Langauge`   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/c/grey" width="30">    | **C**                     | `Langauge`   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/electron/grey" width="30">    | **ElectronJS**            | Framework  | ★★★☆☆                        |
 
 </div>
@@ -59,7 +59,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 <br>
 
 > **Note**
-> The Proficiency Ratings are given by me, based on how well I can work with the given Language if given a task of any level.
+> The Proficiency Ratings are given by me, based on how well I can work with the given `Langauge` if given a task of any level.
 
 
 
