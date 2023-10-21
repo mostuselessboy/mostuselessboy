@@ -20,6 +20,7 @@ I'm excited to collaborate with you to bring both functionality and aesthetics t
 ![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/acheivements.png?raw=true)
 
 <h1 align="center" style="font-family: cursive;">Achi-eVe-ments :></h1>
+<div align="center">
 
 S.No |Hackaton | Award | Contribution | Cat-o-meter
 ---: |--- | :---: | :---: | --- 
@@ -31,3 +32,5 @@ S.No |Hackaton | Award | Contribution | Cat-o-meter
 6 |*AutoHacks* | `Winner` | **Solo**| 😻
 7 |*HP CodeWars'23* | `Top 100` | **Solo**| 😻
 8 |*SkyNet Hacks v2* | `Winner` | **Solo**| 😻
+
+</div>
