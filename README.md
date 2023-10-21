@@ -28,7 +28,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 Here is the updated table with a serial number column added:
 
 | S.No | Logo | Technologies                | Type       | Proficiency (out of 5 stars) |
-| :---: | --- | -------------------------: | ---------- | :----------------------------: |
+| :---: | ---: | ------------------------- | :---------- | :----------------------------: |
 |  1 | <img src="https://cdn.simpleicons.org/firebase/grey" width="20">    | **Python**                | `Language`   | ★★★★★                        |
 |  2 | <img src="https://cdn.simpleicons.org/javascript/grey" width="20">    | **Vanilla JavaScript**    | `Language`   | ★★★★★                        |
 |  3 | <img src="https://cdn.simpleicons.org/html5/grey" width="20">    | **HTML**                  | `Language`   | ★★★★★                        |
