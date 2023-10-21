@@ -28,7 +28,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 | S.No | Technology                 | Type       | Proficiency (out of 5 stars) |
 | ---: | -------------------------  | ---------- | ---------------------------- |
-| 1    | **Python**                | Language   | ★★★★★                        |
+| 1    | **Python**                |  [Python Image](https://example.com/python.png)   | ★★★★★                        |
 | 2    | **Vanilla JavaScript**    | Language   | ★★★★★                        |
 | 3    | **HTML**                  | Language   | ★★★★★                        |
 | 4    | **CSS**                   | Language   | ★★★★★                        |
