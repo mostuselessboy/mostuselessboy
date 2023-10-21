@@ -25,34 +25,33 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 
 <div align="center">
-
-| S.No | Technology                 | Type       | Proficiency (out of 5 stars) |
+| Logo | Technology                 | Type       | Proficiency (out of 5 stars) |
 | ---: | -------------------------  | ---------- | ---------------------------- |
-| 1    | **Python**                |  <img src="https://cdn.simpleicons.org/firebase/white" width="50">   | ★★★★★                        |
-| 2    | **Vanilla JavaScript**    | Language   | ★★★★★                        |
-| 3    | **HTML**                  | Language   | ★★★★★                        |
-| 4    | **CSS**                   | Language   | ★★★★★                        |
-| 5    | **React**                 | Framework  | ★★★☆☆                        |
-| 6    | **TypeScript**            | Language   | ★★★☆☆                        |
-| 7    | **React Native**          | Framework  | ★★★☆☆                        |
-| 8    | **Next.js**               | Framework  | ★★★☆☆                        |
-| 9    | **Firebase**              | Framework  | ★★★☆☆                        |
-| 10   | **Qt5**                   | Framework  | ★★★★★                        |
-| 11   | **MySQL**                 | Language   | ★★★★★                        |
-| 12   | **Git & GitHub**          | Tools      | ★★★★☆                        |
-| 13   | **Flask**                 | Framework  | ★★★★★                        |
-| 14   | **Django**                | Framework  | ★★★☆☆                        |
-| 15   | **Selenium**              | Framework  | ★★★★★                        |
-| 16   | **OpenCV**                | Framework  | ★★★☆☆                        |
-| 17   | **Pygame**                | Framework  | ★★★☆☆                        |
-| 18   | **Java**                  | Language   | ★★★☆☆                        |
-| 19   | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
-| 20   | **Bootstrap**             | Framework  | ★★★☆☆                        |
-| 21   | **Node.js**               | Framework  | ★★★☆☆                        |
-| 22   | **npm**                   | Tools      | ★★★☆☆                        |
-| 23   | **C++**                   | Language   | ★★★☆☆                        |
-| 24   | **C**                     | Language   | ★★★☆☆                        |
-| 25   | **ElectronJS**            | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Python**                | Language   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/javascript/grey" width="30">    | **Vanilla JavaScript**    | Language   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/html5/grey" width="30">    | **HTML**                  | Language   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/css3/grey" width="30">    | **CSS**                   | Language   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React**                 | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/typescript/grey" width="30">    | **TypeScript**            | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React Native**          | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/next-dot-js/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Firebase**              | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/qt/grey" width="30">    | **Qt5**                   | Framework  | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/mysql/grey" width="30">    | **MySQL**                 | Language   | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/github/grey" width="30">    | **Git & GitHub**          | Tools      | ★★★★☆                        |
+| <img src="https://cdn.simpleicons.org/flask/grey" width="30">    | **Flask**                 | Framework  | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/django/grey" width="30">    | **Django**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/selenium/grey" width="30">    | **Selenium**              | Framework  | ★★★★★                        |
+| <img src="https://cdn.simpleicons.org/opencv/grey" width="30">    | **OpenCV**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/pygame/grey" width="30">    | **Pygame**                | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/java/grey" width="30">    | **Java**                  | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/tailwindcss/grey" width="30">    | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/bootstrap/grey" width="30">    | **Bootstrap**             | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/node-dot-js/grey" width="30">    | **Node.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/npm/grey" width="30">    | **npm**                   | Tools      | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/cplusplus/grey" width="30">    | **C++**                   | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/c/grey" width="30">    | **C**                     | Language   | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/electron/grey" width="30">    | **ElectronJS**            | Framework  | ★★★☆☆                        |
 
 </div>
 
