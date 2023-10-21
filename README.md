@@ -3,7 +3,7 @@
 
 I'm a `Full-Stack Web Developer😸` with a passion for both technology and design. I bring not only technical expertise but also a keen eye for `Design✨` to every project I work on. My experience includes numerous projects in `Software Development😾` and `Automation😻`.
 
-
+![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## 🔧 What I Work On
 
