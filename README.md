@@ -26,16 +26,34 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 <div align="center">
 
-S.No |Hackaton | Award | Contribution | Cat-o-meter
----: |--- | :---: | :---: | --- 
-1 |*Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
-2 |*BayView Hackathon 1.0* | `Winner` | **Solo** | 😻
-3 |*HP CodeWars'22* | `Top 70` | **Solo** | 😻
-4 |*BracketHacks 1.0* | `2nd Place` | **Solo** | 😻
-5 |*MLH CivicHacks* | `Peeople Choice Award` | **Solo** | 😻
-6 |*AutoHacks* | `Winner` | **Solo**| 😻
-7 |*HP CodeWars'23* | `Top 100` | **Solo**| 😻
-8 |*SkyNet Hacks v2* | `Winner` | **Solo**| 😻
+| S.No | Technology                 | Proficiency (out of 5 stars) |
+| ---: | -------------------------  | ---------------------------- |
+| 1    | **Python**                | ★★★★★                        |
+| 2    | **Vanilla JavaScript**    | ★★★★☆                        |
+| 3    | **HTML**                  | ★★★★☆                        |
+| 4    | **CSS**                   | ★★★★☆                        |
+| 5    | **React**                 | ★★★☆☆                        |
+| 6    | **TypeScript**            | ★★★☆☆                        |
+| 7    | **React Native**          | ★★★☆☆                        |
+| 8    | **Next.js**               | ★★★☆☆                        |
+| 9    | **Firebase**              | ★★★☆☆                        |
+| 10   | **Qt5**                   | ★★★☆☆                        |
+| 11   | **MySQL**                 | ★★★★☆                        |
+| 12   | **Git & GitHub**          | ★★★★☆                        |
+| 13   | **Flask**                 | ★★★★☆                        |
+| 14   | **Django**                | ★★★☆☆                        |
+| 15   | **Selenium**              | ★★★★☆                        |
+| 16   | **OpenCV**                | ★★★★☆                        |
+| 17   | **Pygame**                | ★★★★☆                        |
+| 18   | **Java**                  | ★★★☆☆                        |
+| 19   | **Tailwind CSS**          | ★★★☆☆                        |
+| 20   | **Bootstrap**             | ★★★☆☆                        |
+| 21   | **Node.js**               | ★★★☆☆                        |
+| 22   | **npm**                   | ★★★☆☆                        |
+| 23   | **C++**                   | ★★★★☆                        |
+| 24   | **C**                     | ★★★★☆                        |
+| 25   | **ElectronJS**            | ★★★☆☆                        |
+
 
 </div>
 
