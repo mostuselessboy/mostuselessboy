@@ -17,11 +17,9 @@ I specialize in:
 
 I'm excited to collaborate with you to bring both functionality and aesthetics to your web projects. Whether you're looking to create a stunning website or build powerful software, I'm here to help.
 
-## 📫 Get in Touch
+## 📫 Hackatons
 
-You can reach me through:
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: [your.email@example.com]
-
-Thanks for stopping by my GitHub profile! Let's create something amazing together! 😊
+Hackaton | Award | 
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
