@@ -2,7 +2,9 @@
 <h1 align="center" style="font-family: cursive;">About M-E :></h1>
 
 <br>
-> Hi This is **Hamza Rizvi**, Thanks for Visiting my Profile :> 
+
+> Hi This is **Hamza Rizvi**, Thanks for Visiting my Profile :>
+
 
 I'm a `Full-Stack Web Developer😸` with a passion for both technology and design. I bring not only technical expertise but also a keen eye for `Design✨` to every project I work on. My experience includes numerous projects in `Software Development😾` and `Automation😻`.
 
