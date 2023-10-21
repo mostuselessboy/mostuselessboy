@@ -22,4 +22,5 @@ I'm excited to collaborate with you to bring both functionality and aesthetics t
 Hackaton | Award | Sample
 --- | --- | ---
 *Still* | `renders` | **nicely**
+--- | --- | ---
 1 | 2 | 3
