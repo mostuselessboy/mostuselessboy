@@ -25,7 +25,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 
 <div align="center">
-| Logo | Technology                 | Type       | Proficiency (out of 5 stars) |
+| Logo | Technologies                | Type       | Proficiency (out of 5 stars) |
 | ---: | -------------------------  | ---------- | ---------------------------- |
 | <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Python**                | Language   | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/javascript/grey" width="30">    | **Vanilla JavaScript**    | Language   | ★★★★★                        |
