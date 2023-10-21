@@ -19,7 +19,9 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 ![technology stack](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/stack.png?raw=true)
 
 
-<h1 align="center" style="font-family: cursive;">About M-E :></h1>
+<h1 align="center" style="font-family: cursive;">Technology Stacks :></h1>
+> **Android Development**
+> You Forget to give me a Follow uWu
 
 I'm excited to collaborate with you to bring both functionality and aesthetics to your web projects. Whether you're looking to create a stunning website or build powerful software, I'm here to help.
 
