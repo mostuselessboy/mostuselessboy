@@ -20,7 +20,7 @@ I'm excited to collaborate with you to bring both functionality and aesthetics t
 ## 📫 Hackatons
 
 Hackaton | Award | Contribution | Cat-o-meter
---- | --- | ---
+--- | --- | --- | --- 
 *Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
 *BayView Hackathon 1.0* | `Winner` | **Solo** | 😻
 *HP CodeWars'22* | `Top 70` | **Solo** | 😻
