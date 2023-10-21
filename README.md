@@ -10,6 +10,9 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 
 ![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
+> **Warning**
+> You Forget to give me a Follow uWu
+
 私はテクノロジーとデザインの両方に情熱を持ったフルスタック Web 開発者です😸。私は、技術的な専門知識だけでなく、デザイン✨に対する鋭い目を、私が取り組むすべてのプロジェクトにもたらします。私の経験には、ソフトウェア開発😾と自動化😻の数多くのプロジェクトが含まれます。
 
 
@@ -19,6 +22,7 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 <h1 align="center" style="font-family: cursive;">About M-E :></h1>
 
 I'm excited to collaborate with you to bring both functionality and aesthetics to your web projects. Whether you're looking to create a stunning website or build powerful software, I'm here to help.
+
 
 ![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/acheivements.png?raw=true)
 
