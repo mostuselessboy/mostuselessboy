@@ -25,7 +25,6 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 
 <div align="center">
-Here is the updated table with a serial number column added:
 
 | S.No | Logo | Technologies                | Type       | Proficiency (out of 5 stars) |
 | :---: | ---: | ------------------------- | :---------- | :----------------------------: |
