@@ -21,8 +21,12 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 
 <h1 align="center" style="font-family: cursive;">Technology Stacks :></h1>
 
+Step into my tech universe! In this section, I'm excited to introduce you to the fantastic array of technologies I've had the pleasure of exploring and mastering
+
 > **Note**
 > Langauge Ratings are given by me :> 
+
+Here's the table consisting of frameworks and languages i know
 
 <div align="center">
 
@@ -41,8 +45,6 @@ S.No |Hackaton | Award | Contribution | Cat-o-meter
 
 
 
-
-I'm excited to collaborate with you to bring both functionality and aesthetics to your web projects. Whether you're looking to create a stunning website or build powerful software, I'm here to help.
 
 
 ![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/acheivements.png?raw=true)
