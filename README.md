@@ -13,6 +13,9 @@ I specialize in:
 - Software Development
 - Automation
 
+![technology stack](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/stack.png?raw=true)
+
+
 ## 🤝 Let's Collaborate
 
 I'm excited to collaborate with you to bring both functionality and aesthetics to your web projects. Whether you're looking to create a stunning website or build powerful software, I'm here to help.
