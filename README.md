@@ -19,13 +19,13 @@ I'm excited to collaborate with you to bring both functionality and aesthetics t
 
 ## 📫 Hackatons
 
-Hackaton | Award | Contribution
+Hackaton | Award | Contribution | Cat-o-meter
 --- | --- | ---
-*Sonoma Hacks 2.0* | `2nd Place` | **Team**
-*BayView Hackathon 1.0* | `Winner` | **Solo**
-*HP CodeWars'22* | `Top 70` | **Solo**
-*BracketHacks 1.0* | `2nd Place` | **Solo**
-*MLH CivicHacks* | `Peeople Choice Award` | **Solo**
-*AutoHacks* | `Winner` | **Solo**
-*HP CodeWars'23* | `Top 100` | **Solo**
-*SkyNet Hacks v2* | `Winner` | **Solo**
+*Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
+*BayView Hackathon 1.0* | `Winner` | **Solo** | 😻
+*HP CodeWars'22* | `Top 70` | **Solo** | 😻
+*BracketHacks 1.0* | `2nd Place` | **Solo** | 😻
+*MLH CivicHacks* | `Peeople Choice Award` | **Solo** | 😻
+*AutoHacks* | `Winner` | **Solo**| 😻
+*HP CodeWars'23* | `Top 100` | **Solo**| 😻
+*SkyNet Hacks v2* | `Winner` | **Solo**| 😻
