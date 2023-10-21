@@ -4,7 +4,9 @@
 
 I'm an enthusiastic Full-Stack Web Developer with a passion for both technology and design. I bring not only technical expertise but also a keen eye for design to every project I work on. My experience includes numerous projects in software development and automation.
 
-<span style="color: #ff5733">Let's collaborate to bring both functionality and aesthetics to your web projects.</span>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
+  <text x="10" y="40" font-family="Arial" font-size="40" fill="#ff5733">This text is in red.</text>
+</svg>
 ## 🔧 What I Work On
 
 I specialize in:
