@@ -26,41 +26,40 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 <div align="center">
 
-| S.No | Technology                 | Proficiency (out of 5 stars) |
-| ---: | -------------------------  | ---------------------------- |
-| 1    | **Python**                | ★★★★★                        |
-| 2    | **Vanilla JavaScript**    | ★★★★☆                        |
-| 3    | **HTML**                  | ★★★★☆                        |
-| 4    | **CSS**                   | ★★★★☆                        |
-| 5    | **React**                 | ★★★☆☆                        |
-| 6    | **TypeScript**            | ★★★☆☆                        |
-| 7    | **React Native**          | ★★★☆☆                        |
-| 8    | **Next.js**               | ★★★☆☆                        |
-| 9    | **Firebase**              | ★★★☆☆                        |
-| 10   | **Qt5**                   | ★★★☆☆                        |
-| 11   | **MySQL**                 | ★★★★☆                        |
-| 12   | **Git & GitHub**          | ★★★★☆                        |
-| 13   | **Flask**                 | ★★★★☆                        |
-| 14   | **Django**                | ★★★☆☆                        |
-| 15   | **Selenium**              | ★★★★☆                        |
-| 16   | **OpenCV**                | ★★★★☆                        |
-| 17   | **Pygame**                | ★★★★☆                        |
-| 18   | **Java**                  | ★★★☆☆                        |
-| 19   | **Tailwind CSS**          | ★★★☆☆                        |
-| 20   | **Bootstrap**             | ★★★☆☆                        |
-| 21   | **Node.js**               | ★★★☆☆                        |
-| 22   | **npm**                   | ★★★☆☆                        |
-| 23   | **C++**                   | ★★★★☆                        |
-| 24   | **C**                     | ★★★★☆                        |
-| 25   | **ElectronJS**            | ★★★☆☆                        |
-
+| S.No | Technology                 | Type       | Proficiency (out of 5 stars) |
+| ---: | -------------------------  | ---------- | ---------------------------- |
+| 1    | **Python**                | Language   | ★★★★★                        |
+| 2    | **Vanilla JavaScript**    | Language   | ★★★★★                        |
+| 3    | **HTML**                  | Language   | ★★★★★                        |
+| 4    | **CSS**                   | Language   | ★★★★★                        |
+| 5    | **React**                 | Framework  | ★★★☆☆                        |
+| 6    | **TypeScript**            | Language   | ★★★☆☆                        |
+| 7    | **React Native**          | Framework  | ★★★☆☆                        |
+| 8    | **Next.js**               | Framework  | ★★★☆☆                        |
+| 9    | **Firebase**              | Framework  | ★★★☆☆                        |
+| 10   | **Qt5**                   | Framework  | ★★★★★                        |
+| 11   | **MySQL**                 | Language   | ★★★★★                        |
+| 12   | **Git & GitHub**          | Tools      | ★★★★☆                        |
+| 13   | **Flask**                 | Framework  | ★★★★★                        |
+| 14   | **Django**                | Framework  | ★★★☆☆                        |
+| 15   | **Selenium**              | Framework  | ★★★★★                        |
+| 16   | **OpenCV**                | Framework  | ★★★☆☆                        |
+| 17   | **Pygame**                | Framework  | ★★★☆☆                        |
+| 18   | **Java**                  | Language   | ★★★☆☆                        |
+| 19   | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
+| 20   | **Bootstrap**             | Framework  | ★★★☆☆                        |
+| 21   | **Node.js**               | Framework  | ★★★☆☆                        |
+| 22   | **npm**                   | Tools      | ★★★☆☆                        |
+| 23   | **C++**                   | Language   | ★★★☆☆                        |
+| 24   | **C**                     | Language   | ★★★☆☆                        |
+| 25   | **ElectronJS**            | Framework  | ★★★☆☆                        |
 
 </div>
 
 <br>
 
 > **Note**
-> Langauge Ratings are given by me :> 
+> The Proficiency Ratings are given by me, based on how well I can work with the given Language if given a task of any level.
 
 
 
