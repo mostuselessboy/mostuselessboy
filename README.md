@@ -35,7 +35,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 | <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React**                 | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/typescript/grey" width="30">    | **TypeScript**            | Language   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/react/grey" width="30">    | **React Native**          | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/vercel/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/nextdotjs/grey" width="30">    | **Next.js**               | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/firebase/grey" width="30">    | **Firebase**              | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/qt/grey" width="30">    | **Qt5**                   | Framework  | ★★★★★                        |
 | <img src="https://cdn.simpleicons.org/mysql/grey" width="30">    | **MySQL**                 | Language   | ★★★★★                        |
@@ -48,7 +48,7 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 | <img src="https://cdn.simpleicons.org/java/grey" width="30">    | **Java**                  | Language   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/tailwindcss/grey" width="30">    | **Tailwind CSS**          | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/bootstrap/grey" width="30">    | **Bootstrap**             | Framework  | ★★★☆☆                        |
-| <img src="https://cdn.simpleicons.org/node-dot-js/grey" width="30">    | **Node.js**               | Framework  | ★★★☆☆                        |
+| <img src="https://cdn.simpleicons.org/nodedotjs/grey" width="30">    | **Node.js**               | Framework  | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/npm/grey" width="30">    | **npm**                   | Tools      | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/cplusplus/grey" width="30">    | **C++**                   | Language   | ★★★☆☆                        |
 | <img src="https://cdn.simpleicons.org/c/grey" width="30">    | **C**                     | Language   | ★★★☆☆                        |
