@@ -74,11 +74,12 @@ S.No |Hackaton | Award | Contribution | Cat-o-meter
 1 |*Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
 2 |*BayView Hackathon 1.0* | `Winner` | **Solo** | 😻
 3 |*HP CodeWars'22* | `Top 70` | **Solo** | 😻
-4 |*BracketHacks 1.0* | `2nd Place` | **Solo** | 😻
+4 |*BracketHacks 1.0* | `First Place` | **Solo** | 😻
 5 |*MLH CivicHacks* | `Peeople Choice Award` | **Solo** | 😻
 6 |*AutoHacks* | `Winner` | **Solo**| 😻
 7 |*HP CodeWars'23* | `Top 100` | **Solo**| 😻
 8 |*SkyNet Hacks v2* | `Winner` | **Solo**| 😻
+9 |*Happy Hacks III* | `First Place` | **Solo**| 😻
 
 </div>
 
